@@ -2,7 +2,7 @@
 [![Pub](https://img.shields.io/pub/v/flutter_map.svg)](https://pub.dev/packages/flutter_map)
 
 # flutter_map
-
+ 
 A Dart implementation of [Leaflet] for Flutter apps.
 
 ## Usage
