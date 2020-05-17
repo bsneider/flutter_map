@@ -70,7 +70,7 @@ class HomePage extends StatelessWidget {
                     // For example purposes. It is recommended to use
                     // TileProvider with a caching and retry strategy, like
                     // NetworkTileProvider or CachedNetworkTileProvider
-                    tileProvider: NonCachingNetworkTileProvider(),
+                    tileProvider: CachedNetworkTileProvider(),
                   ),
                   MarkerLayerOptions(markers: markers)
                 ],
